@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|c:\\users\\lucas\\source\\repos\\castromotors.api\\castromotors.api\\castromotors.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43B2137D-7D9C-4A5F-A9EC-C51D01326AD4}|CastroMotors.API\\CastroMotors.API.csproj|solutionrelative:castromotors.api\\castromotors.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GarageController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\GarageController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\GarageController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\GarageController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\GarageController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:12:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:06.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:08:27.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:08:10.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:36:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:35:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Program.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Program.cs",
+              "RelativeToolTip": "CastroMotors.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:47:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\WeatherForecast.cs",
+              "RelativeToolTip": "CastroMotors.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:47:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Category.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:25:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Brand.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:25:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Car.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:25:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:24:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\Order.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:21:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Entities\\User.cs",
+              "RelativeToolTip": "CastroMotors.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:00:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:56:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CastroMotors.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CastroMotors.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:52:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CastroMotors.API.http",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\CastroMotors.API.http",
+              "RelativeDocumentMoniker": "CastroMotors.API\\CastroMotors.API.http",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\CastroMotors.API\\CastroMotors.API\\CastroMotors.API.http",
+              "RelativeToolTip": "CastroMotors.API\\CastroMotors.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-05T11:51:57.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
